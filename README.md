@@ -12,6 +12,9 @@
 
 - [JSX States e Ciclo de vida](/docs/contents/modulo001-intro/content06.md)
 
+- [Manipulando Eventos](/docs/contents/modulo001-intro/content07.md)
+
+
 
 
 
